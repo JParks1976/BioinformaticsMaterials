@@ -40,6 +40,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 ###Assessment
 * :exclamation: Complete the "GitHub survey" in [Blackboard](http://blackboard.uttyler.edu)
 * :exclamation: Written assessment: Title is "GitHub and Markdown." Answer the following questions:
+
 1. Question 1 
 2. Question 2
 3. Question 3
