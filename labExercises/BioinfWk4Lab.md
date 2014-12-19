@@ -1,5 +1,5 @@
-#Bioinformatics Week 2 Lab
-##Unix and command line interface
+#Bioinformatics Week 4 Lab
+##Data parsing and statistical analysis in R
 
 Slides for the introduction to this course, as well as a PDF of this document, can be found on [Blackboard](http://blackboard.uttyler.edu).
 
@@ -7,10 +7,7 @@ Slides for the introduction to this course, as well as a PDF of this document, c
 1. 
 
 ###Activities
-* Intro to Shell
-Files and Directories
-Creating Things
-Finding Things
+* 
 
 ###Assessment
 1. 
