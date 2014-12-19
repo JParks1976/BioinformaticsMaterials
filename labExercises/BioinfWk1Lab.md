@@ -21,9 +21,9 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 * Go through GitHub's introductory material
 	* Navigate in a web browser to [GitHub Guides](https://guides.github.com)
 	* Work through the instructions on the following guides. Your assessment for today's lab will include confirmation of completion of the tasks listed below. Keep in mind that links are highlighted in blue and may contain additional information if you have questions:
-		* **Hello World:** When you are finished with this guide, you will have created a repo called hello-world, opened an issue, created a branch, made a commit, opened a pull request, and merged a pull request.
-		* **Forking Projects:** When instructed to modify a text file, use the text editor Notepad++. When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
-		* **Be Social:** When you are finished with this guide, you will have followed another GitHub user (k8hertweck and/or a classmate) and watched [the GitHub repo for this class](https://github.com/k8hertweck/Bioinformatics). You may also want to star the repo for this class.
+		* **Hello World:** :exclamation: When you are finished with this guide, you will have created a repo called hello-world, opened an issue, created a branch, made a commit, opened a pull request, and merged a pull request.
+		* **Forking Projects:** When instructed to modify a text file, use the text editor Notepad++. :exclamation: When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
+		* **Be Social:** :exclamation: When you are finished with this guide, you will have followed another GitHub user (k8hertweck and/or a classmate) and watched [the GitHub repo for this class](https://github.com/k8hertweck/Bioinformatics). You may also want to star the repo for this class.
 		* **Mastering Markdown:** You will use the information in this lesson to format your assessment (see below).
 	* Take a look at the [GitHub Glossary](https://help.github.com/articles/github-glossary/). This will help with today's assessment and next week's lab.
 
@@ -32,14 +32,14 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 	* Change the settings of this repo to private, and add your instructor (k8hertweck) as a collaborator. You may need to wait for your GitHub Student Developer Pack to be accepted before completing this section.
 	* Prepare your repo for homework submission.
 		* Go to the [GitHub help page](https://help.github.com) and find the article that describes how to rename a repository.
-		* Use the information in that article to rename your new branch of `ForkMe` in the format `LastnameBioinf` (e.g., `HertweckBioinf`).
-		* Modify the `README.md` file to inform readers of the intention for this repository
-		* Edit and commit changes to `homeworkTemplate.md` to reflect your name and GitHub repo URL
-		* Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
+		* :exclamation: Use the information in that article to rename your new branch of `ForkMe` in the format `LastnameBioinf` (e.g., `HertweckBioinf`).
+		* :exclamation: Modify the `README.md` file to inform readers of the intention for this repository
+		* :exclamation: Edit and commit changes to `homeworkTemplate.md` to reflect your name and GitHub repo URL
+		* :exclamation: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
 
 ###Assessment
 * :exclamation: Complete the "GitHub survey" in [Blackboard](http://blackboard.uttyler.edu)
 * :exclamation: Written assessment: Title is "GitHub and Markdown." Answer the following questions:
-	1. Question 1 
-	2. Question 2
-	3. Question 3
+1. Question 1 
+2. Question 2
+3. Question 3
