@@ -38,8 +38,8 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 		* Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
 
 ###Assessment
-1. Complete the "GitHub survey" in [Blackboard](http://blackboard.uttyler.edu)
-2. Written assessment: Title is "GitHub and Markdown." Answer the following questions:
+* :exclamation: Complete the "GitHub survey" in [Blackboard](http://blackboard.uttyler.edu)
+* :exclamation: Written assessment: Title is "GitHub and Markdown." Answer the following questions:
 	1. Question 1 
 	2. Question 2
 	3. Question 3
