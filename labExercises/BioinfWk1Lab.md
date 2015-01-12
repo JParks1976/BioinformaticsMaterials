@@ -1,4 +1,4 @@
-#Bioinformatics Week 1 Lab
+#Bioinformatics Week 1 Lab: Jan 15, 2015
 ##Introduction to GitHub and Markdown
 
 Slides for the introduction to today's lab, as well as a PDF of this document, can be found on [Blackboard](http://blackboard.uttyler.edu).
@@ -38,6 +38,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
 
 ###Assessment
+* Due Tuesday, Jan 20 at 5 pm
 * Assessment criteria:
 	* Technical content (45 points): tasks in GitHub (above)
 	* Critical thinking (40 points): answers to questions (below) 
