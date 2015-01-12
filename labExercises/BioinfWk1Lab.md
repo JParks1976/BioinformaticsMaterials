@@ -33,7 +33,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 	* Prepare your repo for homework submission.
 		* Go to the [GitHub help page](https://help.github.com) and find the article that describes how to rename a repository.
 		* :pencil2: Use the information in that article to rename your new branch of `ForkMe` in the format `LastnameBioinf` (e.g., `HertweckBioinf`).
-		* :pencil2: Modify the `README.md` file to inform readers of the intention for this repository
+		* :pencil2: Modify the `README.md` file to inform readers of the intention for this repository. Please do not remove or modify the rubric table.
 		* :pencil2: Edit and commit changes to `homeworkTemplate.md` to reflect your name and GitHub repo URL
 		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
 
