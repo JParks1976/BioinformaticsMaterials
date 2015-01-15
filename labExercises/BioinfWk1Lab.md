@@ -21,7 +21,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 	* Navigate in a web browser to [GitHub Guides](https://guides.github.com)
 	* Work through the instructions on the following guides. Your assessment for today's lab will include confirmation of completion of the tasks listed below. Keep in mind that links are highlighted in blue and may contain additional information if you have questions:
 		* **Hello World:** :pencil2: When you are finished with this guide, you will have created a repo called `hello-world`, opened an issue, created a branch, made a commit, opened a pull request, and merged a pull request.
-		* **Forking Projects:** The desktop client should already be installed on the lab computers. When instructed to modify a text file, use the text editor Notepad++ from your desktop. :pencil2: When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
+		* **Forking Projects:** You will need to install the desktop client on your computer, log in locally (click on the gear in the upper right corner of the client), and then clone the repo (click on the + in the upper left corner). When instructed to modify a text file, use the text editor Notepad++ from your desktop. :pencil2: When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
 		* **Be Social:** :pencil2: When you are finished with this guide, you will have followed another GitHub user (k8hertweck and/or a classmate) and watched [the GitHub repo for this class](https://github.com/k8hertweck/Bioinformatics). You may also want to star the repo for this class.
 		* **Mastering Markdown:** You will use the information in this lesson to format your assessment (see below).
 	* Take a look at the [GitHub Glossary](https://help.github.com/articles/github-glossary/). This will help with today's assessment and next week's lab.
@@ -34,7 +34,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 		* :pencil2: Use the information in that article to rename your new branch of `ForkMe` in the format `LastnameBioinf` (e.g., `HertweckBioinf`).
 		* :pencil2: Modify the `README.md` file to inform readers of the intention for this repository. Please do not remove or modify the rubric table.
 		* :pencil2: Edit and commit changes to `homeworkTemplate.md` to reflect your name and GitHub repo URL
-		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below and save in your private homework repo. If your repo is not yet private, save your answers in a separate text document (using Notepad++) to upload later. If you don't receive approval for your GitHub Developer Pack by the assessment deadline, upload the file as Week 1 assessment on Blackboard.
+		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below and save in your private homework repo. If your repo is not yet private, use Notepad++ to save your answers in a separate text document on a flash drive (or in your email) to upload later. If you don't receive approval for your GitHub Developer Pack by the assessment deadline, upload the file as Week 1 assessment on Blackboard.
 
 ###Assessment
 * Due Tuesday, Jan 20 at 5 pm
@@ -52,4 +52,4 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 4. Why are you making your `ForkMe` repository private and adding your instructor as a collaborator?
 5. Why are README files recommended for inclusion in repositories?
 6. Create a table using Markdown with eight rows (header and days of the week) and three columns (header, number of hours slept, number of hours spent in class). Label the rows and columns with appropriate headers, and make these labels bold. Fill in the table with your estimates from the first week of class.
-7. Write a sentence directing me to the help page you used to rename your repository, embedding the link in one of the words.
+7. Write a sentence directing me (using an @ mention) to the help page you used to rename your repository, embedding the link in one of the words.
