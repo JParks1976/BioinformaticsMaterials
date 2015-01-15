@@ -20,8 +20,8 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 * Go through GitHub's introductory material
 	* Navigate in a web browser to [GitHub Guides](https://guides.github.com)
 	* Work through the instructions on the following guides. Your assessment for today's lab will include confirmation of completion of the tasks listed below. Keep in mind that links are highlighted in blue and may contain additional information if you have questions:
-		* **Hello World:** :pencil2: When you are finished with this guide, you will have created a repo called hello-world, opened an issue, created a branch, made a commit, opened a pull request, and merged a pull request.
-		* **Forking Projects:** When instructed to modify a text file, use the text editor Notepad++. :pencil2: When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
+		* **Hello World:** :pencil2: When you are finished with this guide, you will have created a repo called `hello-world`, opened an issue, created a branch, made a commit, opened a pull request, and merged a pull request.
+		* **Forking Projects:** The desktop client should already be installed on the lab computers. When instructed to modify a text file, use the text editor Notepad++ from your desktop. :pencil2: When you are finished with this guide, you will have forked `Spoon-Knife`, cloned the repo to the desktop, made/pushed a change, and made a pull request.  
 		* **Be Social:** :pencil2: When you are finished with this guide, you will have followed another GitHub user (k8hertweck and/or a classmate) and watched [the GitHub repo for this class](https://github.com/k8hertweck/Bioinformatics). You may also want to star the repo for this class.
 		* **Mastering Markdown:** You will use the information in this lesson to format your assessment (see below).
 	* Take a look at the [GitHub Glossary](https://help.github.com/articles/github-glossary/). This will help with today's assessment and next week's lab.
@@ -39,13 +39,15 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 ###Assessment
 * Due Tuesday, Jan 20 at 5 pm
 * Assessment criteria:
-	* Technical content (45 points): tasks in GitHub (above)
-	* Critical thinking (40 points): answers to questions (below) 
-	* Documentation (5 points): README.md in your homework repository
-	* Professional behavior (10 points): survey below, class participation, assignment formatting using homework template
+	* Technical content (45 points): tasks in GitHub (above), question 5 (below)
+	* Critical thinking (40 points): answers to questions 1-4 (below) 
+	* Documentation (5 points): README.md in your homework repository, survey on Blackboard (listed below)
+	* Professional behavior (10 points): class participation, assignment formatting using homework template
 * :pencil2: Complete the "GitHub survey" in [Blackboard](http://blackboard.uttyler.edu)
 * :pencil2: Written assessment: Title is "GitHub and Markdown." Answer the following questions:
 
-1. Question 1 
-2. Question 2
-3. Question 3
+1. In today's lesson, you created a branch for `hello-world`. You also forked `Spoon-Knife`. Why would you want to fork or branch a repository, and what is the difference between these commands in GitHub?
+2. Look at the details for the commit you made to `Spoon-Knife`. Why does GitHub record timestamps for collaborative projects like this? Why might you care about what has been changed in a file?
+3. Why are you making your repository private and adding your instructor as a collaborator?
+4. Why are README files recommended for inclusion in repositories?
+5. Create a table using Markdown with eight rows (header and days of the week) and three columns (header, number of hours slept, number of hours spent in class). Label the rows and columns with appropriate headers, and make these labels bold. Fill in the table with your estimates from the first week of class.
