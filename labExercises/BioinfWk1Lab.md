@@ -34,7 +34,7 @@ Slides for the introduction to today's lab, as well as a PDF of this document, c
 		* :pencil2: Use the information in that article to rename your new branch of `ForkMe` in the format `LastnameBioinf` (e.g., `HertweckBioinf`).
 		* :pencil2: Modify the `README.md` file to inform readers of the intention for this repository. Please do not remove or modify the rubric table.
 		* :pencil2: Edit and commit changes to `homeworkTemplate.md` to reflect your name and GitHub repo URL
-		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below. If your repo is not yet private, save your answers in a separate text document to upload later.
+		* :pencil2: Copy the text formatting from `homeworkTemplate.md` and create a new file with the name `LastnameWkX.md`, where Lastname is your last name and X is 1 (for week 1). Use this file to answer the questions in the assessment section below and save in your private homework repo. If your repo is not yet private, save your answers in a separate text document (using Notepad++) to upload later. If you don't receive approval for your GitHub Developer Pack by the assessment deadline, upload the file as Week 1 assessment on Blackboard.
 
 ###Assessment
 * Due Tuesday, Jan 20 at 5 pm
